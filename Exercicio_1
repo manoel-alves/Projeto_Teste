@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T01:36:02.808Z" agent="5.0 (Windows)" version="15.4.3" etag="UVwWINfkAI9jvJi5U9Zt" type="github"><diagram id="flcWNtyqpaUml2aZAgn6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-07T04:54:51.833Z" agent="5.0 (Windows)" etag="814KQUa8hI90qUWayIQT" version="15.4.3" type="github">
+  <diagram id="flcWNtyqpaUml2aZAgn6" name="Page-1">
+    <mxGraphModel dx="481" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Er7w7zy27WKK5GDbYLNA-3" value="Cliente" style="whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;fontSize=14;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7w7zy27WKK5GDbYLNA-4" value="Apólice" style="whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;fontSize=14;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7w7zy27WKK5GDbYLNA-5" value="Carro" style="whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;fontSize=14;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7w7zy27WKK5GDbYLNA-6" value="Prêmio" style="whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;fontSize=14;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7w7zy27WKK5GDbYLNA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=none;endFill=0;verticalAlign=middle;" edge="1" parent="1" source="Er7w7zy27WKK5GDbYLNA-7" target="Er7w7zy27WKK5GDbYLNA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7w7zy27WKK5GDbYLNA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;startArrow=none;startFill=0;endArrow=none;endFill=0;verticalAlign=middle;" edge="1" parent="1" source="Er7w7zy27WKK5GDbYLNA-7" target="Er7w7zy27WKK5GDbYLNA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7w7zy27WKK5GDbYLNA-7" value="Possui" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;fontSize=14;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7w7zy27WKK5GDbYLNA-8" value="Acidente" style="whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;fontSize=14;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
